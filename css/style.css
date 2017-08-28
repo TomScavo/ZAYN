@@ -103,7 +103,7 @@
         text-align: center;
     }
     .mob-nav-singer-name{
-        margin: 10px 0px;
+        margin: 3px 0px;
     }
     .mob-nav-singer-name>div{
         padding: 0px;
@@ -117,7 +117,7 @@
         height: 30px;
     }
     .mob-nav-singer,.mob-nav-songs{
-        padding-top:15px;
+        padding-top:8px;
     }
     .level-2-music-img{
         padding: 0px !important;
